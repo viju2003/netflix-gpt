@@ -17,6 +17,11 @@
 - Create SignUp User Account
 - Implement Sign In user Api
 - Create Redux Store with userSlice
+- Implemented Sign out
+- Update Profile
+- Bugfix: Sign Up user display name and profile picture update
+- if the user not logged in redirect / Browse to login page and vice-versauth
+- unsubscribe to the onAuthStateChanged callback
 
 
 # Features
