@@ -5,6 +5,8 @@ export const bg =
 export const USER_AVATAR =
     "https://mir-s3-cdn-cf.behance.net/project_modules/disp/1bdc9a33850498.56ba69ac2ba5b.png";
 
+export const Trailer = "https://www.youtube.com/embed/afEJYg0tyJ4?si=9VaBcDMbmBcvIVpj";
+
 export const API_OPTIONS = {
     method: "GET",
     headers: {
